@@ -1,0 +1,70 @@
+
+.A{
+    
+    border-right: 3px solid ;
+    border-bottom: 3px solid ;
+}
+.B{
+    border-left: 3px solid ;
+    border-right: 3px solid ;
+    border-bottom: 3px solid ;
+}
+.C{
+    
+    border-left: 3px solid;
+    border-bottom: 3px solid ;
+    
+}
+.D{
+    border-top: 3px solid;
+    border-right: 3px solid ;
+    border-bottom: 3px solid ;
+}
+.E{
+    border: 3px solid ;
+    
+}
+.F{
+    border-top: 3px solid ;
+    border-left: 3px solid;
+    border-bottom: 3px solid ;
+}
+.G{
+    border-top: 3px solid ;
+    border-right: 3px solid ;
+    
+}
+.H{
+    border-top: 3px solid ;
+    border-right: 3px solid ;
+    border-left: 3px solid ;
+}
+.I{
+    border-top:  3px solid ;
+    border-left: 3px solid ;
+    
+}
+.V{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    width: 500px;
+    height: 500px;
+    border-spacing: 0px;;
+    
+    margin: 50px auto;
+
+    font-size: 100px;
+    
+}
+.t{
+    width: 100px;
+    height: 100px;
+    border-color: #ff7d63;
+}
+.h{
+    text-align: center;
+    font-size: 50px;
+    color: #ff7d63;
+}
+
